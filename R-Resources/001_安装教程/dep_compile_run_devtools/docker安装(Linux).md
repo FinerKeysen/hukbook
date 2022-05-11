@@ -210,7 +210,7 @@ sudo groupadd docker
 b、将用户添加到`docker`组中
 
 ```shell
-sudo usermod -aG docker $hukai
+sudo usermod -aG docker hukai
 ```
 
 c、登出然后登入以重新评估组的成员关系
