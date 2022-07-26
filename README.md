@@ -1,10 +1,10 @@
 # hukbook
 
-tags: 📝notes, ⚒tools, ✨tutorials
+tags: 📝`notes`，⚒`tools`，✨`tutorials`，📘`markdown`
 
-> 个人笔记
+> 1、个人笔记
 >
-> 绝大部分摘自网络，以Markdown为主要格式
+> 2、摘自网络
 
 将以笔记本组（文件目录）的结构来记录
 
@@ -21,5 +21,5 @@ tags: 📝notes, ⚒tools, ✨tutorials
 | M（Machine_Learning）   | 机器学习   | 概念、准则、tricks、算法、框架、模型、数据等 |
 | P（Productivity_Tools） | 生产力工具 | 提高效率的工具、方法                         |
 | P（P-Programming）      | 语言类     | 面向对象、面向过程、脚本等开发类语言         |
-| R（Resources）          | 资源       | 安装教程、教辅资料                           |
+| R（Resources）          | 资源       | 安装教程、教辅资料、实用工具、图解示例等     |
 
