@@ -7,3 +7,6 @@
 [submodule "P-Programming/013_Python/learnpython"]
 	path = P-Programming/013_Python/learnpython
 	url = git@github.com:FinerKeysen/learnpython.git
+[submodule "P-Productivity_Tools/004_bash_shell/linux_comand"]
+	path = P-Productivity_Tools/004_bash_shell/linux_comand
+	url = git@github.com:FinerKeysen/linux_comand.git
