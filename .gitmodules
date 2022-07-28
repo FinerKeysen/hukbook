@@ -4,3 +4,6 @@
 [submodule "P-Programming/012_Java/java-record-pieces"]
 	path = P-Programming/012_Java/java-record-pieces
 	url = git@github.com:FinerKeysen/java-record-pieces.git
+[submodule "P-Programming/013_Python/learnpython"]
+	path = P-Programming/013_Python/learnpython
+	url = git@github.com:FinerKeysen/learnpython.git
