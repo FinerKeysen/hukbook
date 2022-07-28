@@ -10,3 +10,6 @@
 [submodule "P-Productivity_Tools/004_bash_shell/linux_comand"]
 	path = P-Productivity_Tools/004_bash_shell/linux_comand
 	url = git@github.com:FinerKeysen/linux_comand.git
+[submodule "A-AI/DeepLearning-Notes"]
+	path = A-AI/DeepLearning-Notes
+	url = git@github.com:FinerKeysen/DeepLearning-Notes.git
