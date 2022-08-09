@@ -1,0 +1,22 @@
+name: "Feature Request"
+description: Suggest an enhancement to hukbook.
+title: "feat: As a user, I want to ..., so that ..."
+body:
+  - type: markdown
+    attributes:
+      value: |
+        _The more information you share, the faster we can help you._
+
+        Prior to opening the issue, please make sure that you:
+
+        - Search the [open issues](https://github.com/FinerKeysen/hukbook/issues).
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the feature you would like to see.
+      placeholder: |
+        As a user, I want to ..., so that...
+    validations:
+      required: true
