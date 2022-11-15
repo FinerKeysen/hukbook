@@ -20,6 +20,7 @@ tags: 📝`notes`，⚒`tools`，✨`tutorials`，📘`markdown`
 | L（Life_Thoughts）      | 生活       | 感想、经历等                                                 |
 | P（Productivity_Tools） | 生产力工具 | 提高效率的工具、方法                                         |
 | P（P-Programming）      | 语言类     | 面向对象、面向过程、脚本等开发类语言                         |
+| R（Reading）            | 文章       | 每周阅读的文章收藏、推荐                                     |
 | R（Resources）          | 资源       | 安装教程、教辅资料、实用工具、图解示例等                     |
 
 
